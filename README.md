@@ -9,7 +9,7 @@ CPU: 4 virtual cores
 RAM: 6 GB
 
 # Register email:
-https://account.network3.ai/
+https://account.network3.ai/register_page?rc=084e205e
 
 Step by step
 
